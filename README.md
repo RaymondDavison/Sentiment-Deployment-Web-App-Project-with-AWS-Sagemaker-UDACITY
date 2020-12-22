@@ -23,7 +23,7 @@ General Outline
 - Step 6 (again): Deploy the model for the web app
 - Step 7 (again): Use the model for the web app
 ### Frameworks
-#### AWS SageMaker
+#### [AWS SageMaker](https://aws.amazon.com/sagemaker/)
 #### PyTorch
 #### Python 3
 #### HTML 
